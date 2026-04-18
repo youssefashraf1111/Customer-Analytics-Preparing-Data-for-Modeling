@@ -24,3 +24,17 @@ customer-analytics/
 └── README.md
 
 How to run
+1. Download `project1.ipynb`
+2. Download `customer_train.csv`
+3. Run using Jupyter Notebook or Google Colab
+
+Libraries used
+pandas — data manipulation and type conversion
+
+Dataset
+Provided by DataCamp. Contains information about data science course enrollees including city, education level, experience, and training hours.
+
+Author
+Youssef Ashraf — Aspiring Data Scientist
+
+   
