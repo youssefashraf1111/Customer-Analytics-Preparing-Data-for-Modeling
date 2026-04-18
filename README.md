@@ -18,9 +18,8 @@ Final dataset status                        Ready for ML modeling
 
 Project structure
 customer-analytics/
-├── notebook.ipynb      ← main analysis and preprocessing
-├── data/
-│   └── customer_train.csv
+├── project1.ipynb      ← main analysis and preprocessing
+├── customer_train.csv
 └── README.md
 
 How to run
